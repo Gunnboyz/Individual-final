@@ -1,0 +1,78 @@
+.normal{
+    font-family: verdana;
+    background-image: url('../Pictures/lake_background.png');
+    background-color: blue;
+    color: white;
+}
+
+.hardmode{
+    font-family: verdana;
+    background-image: url('../Pictures/hollowed_background.png');
+    background-color: blue;
+    color: white;
+}
+
+.classes{
+    font-family: verdana;
+    background-image: url('../Pictures/Terraria_sky_background.png');
+    background-color: blue;
+    color: white;
+}
+
+#wrapper-main{
+    width: 100%;
+}
+
+.bosses{
+    font-family: verdana;
+    background-image: url('../Pictures/Terraria_Underworld_Background.png');
+    background-color: blue;
+    color: white;
+}
+
+a{
+    color: black;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.flex-mid{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.grid-item{
+    text-align: center;
+}
+
+.grid-2x1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.background-box{
+    background-color: green;
+}
+
+.custom-list{
+    column-count: 2;
+    column-gap: 200px;
+    display: inline-block;
+}
