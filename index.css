@@ -1,20 +1,20 @@
 .normal{
     font-family: verdana;
-    background-image: url('../Pictures/lake_background.png');
+    background-image: url('Pictures/lake_background.png');
     background-color: blue;
     color: white;
 }
 
 .hardmode{
     font-family: verdana;
-    background-image: url('../Pictures/hollowed_background.png');
+    background-image: url('Pictures/hollowed_background.png');
     background-color: blue;
     color: white;
 }
 
 .classes{
     font-family: verdana;
-    background-image: url('../Pictures/Terraria_sky_background.png');
+    background-image: url('Pictures/Terraria_sky_background.png');
     background-color: blue;
     color: white;
 }
@@ -25,7 +25,7 @@
 
 .bosses{
     font-family: verdana;
-    background-image: url('../Pictures/Terraria_Underworld_Background.png');
+    background-image: url('Pictures/Terraria_Underworld_Background.png');
     background-color: blue;
     color: white;
 }
